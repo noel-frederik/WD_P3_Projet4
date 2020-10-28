@@ -1,0 +1,20 @@
+header
+{
+    background-image: url("../img/photoGenMob.png");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    height: 545px;
+    align-items: bottom;
+}
+.mobileLogo
+ {
+    background-image: url("../img/Noyon_OT_mobileLogo.png");
+    background-size: 40%;
+    display: flex;
+ }
+ #presentationText
+ {
+     font-family: @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500;600;700;800&display=swap');
+     font-size: 20px;
+ }
